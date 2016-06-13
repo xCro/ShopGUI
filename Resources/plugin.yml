@@ -1,0 +1,6 @@
+name: Shop
+main: shop.Main
+version: 1
+commands:
+  shop:
+  spawn:
